@@ -8,7 +8,7 @@
 #### 1. `wallet.json`
 ##### Content:
 
-```json
+```json5
 {
 	"hash": "sample4ch9wko3g3rkjowfw3lpgfkejg5h49eomi45g",
 	"seed_phrase": "your long seed phrase containing twenty four words"
